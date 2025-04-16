@@ -1,6 +1,7 @@
 package com.alibou.whatsappclone.campaign;
 
 import com.alibou.whatsappclone.common.BaseAuditingEntity;
+import com.alibou.whatsappclone.payment.Payment;
 import com.alibou.whatsappclone.user.User;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
